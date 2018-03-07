@@ -1,0 +1,10 @@
+aseg.stats
+lh.BA.stats
+lh.aparc.a2009s.stats
+lh.aparc.stats
+lh.entorhinal_exvivo.stats
+rh.BA.stats
+rh.aparc.a2009s.stats
+rh.aparc.stats
+rh.entorhinal_exvivo.stats
+wmparc.stats
